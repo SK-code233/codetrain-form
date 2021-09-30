@@ -1,0 +1,174 @@
+body {
+	background-color: white;
+	width: ;
+	align-self: center;
+	position: ;
+	margin-left: ;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin: 100px;
+	color: black;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+
+p {
+	color: black;
+}
+
+.head {
+	background-image: /*url(pexelsfra.jpg) */;
+	background-color: #00a877;
+	background-repeat: ;
+	
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-left: 0px;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+
+}
+
+.link {
+	background-color: black;
+	text-align: left;
+	text-color: white;
+	text-decoration: none;
+	padding: 10px;
+
+}
+
+.links {
+padding-right: 15px;
+	text-decoration: none;
+}
+
+
+.foot {
+	background-color: lightgray;
+	text-align: center;
+	color: black;
+	height: 10vh;
+	margin-top: 0px;
+	padding-top: 2px;
+}
+
+.main {
+	display: flex;
+	align-content: space-between;
+}
+
+.childone {
+	float: left;
+	background-color: lavender;
+	border: 1px;
+	width: 360px;
+	height: 100vh;
+	margin-left: ;
+	margin-right: 30px;
+	padding-left: 10px;
+}
+
+#bord {
+	border: 1px;
+	margin: 10px;
+	background-color: dimgray;
+}
+
+}
+
+.childtwo {
+	float: right;
+	margin-left: 20px;
+	width: 100px;
+
+}
+
+.childone > image {
+	margin-bottom: 0px;
+
+}
+
+.childtwo > h3 {
+	width: 500px;
+	height: 15vh;
+
+}
+
+#content {
+
+}
+
+#sidebar {}
+
+#maina {
+	background-color: ghostwhite;
+	margin: 100px;
+}
+
+h3 {
+	background-color: gray;
+	color: black;
+	width: 300px;
+	height: 7vh;
+}
+
+section {
+	margin: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+	#content {
+				border-bottom: solid 1px #e8e8e8;
+				padding-bottom: 4em;
+				margin-bottom: 0 !important;
+			}
+
+				#content > :last-child {
+					margin-bottom: 0 !important;
+				}
+
+			#sidebar > :last-child {
+				margin-bottom: 0 !important;
+			}*/
